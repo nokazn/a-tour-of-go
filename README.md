@@ -2,8 +2,8 @@
 
 ## Check list
 
-- [ ] [Loops and Functions](https://go-tour-jp.appspot.com/flowcontrol/8)
-- [ ] [Slices](https://go-tour-jp.appspot.com/moretypes/18)
+- [x] [Loops and Functions](https://go-tour-jp.appspot.com/flowcontrol/8)
+- [x] [Slices](https://go-tour-jp.appspot.com/moretypes/18)
 - [ ] [Maps](https://go-tour-jp.appspot.com/moretypes/23)
 - [ ] [Fibonacci closure](https://go-tour-jp.appspot.com/moretypes/26)
 - [ ] [Stringers](https://go-tour-jp.appspot.com/methods/18)
