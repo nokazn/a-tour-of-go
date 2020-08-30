@@ -4,8 +4,8 @@
 
 - [x] [Loops and Functions](https://go-tour-jp.appspot.com/flowcontrol/8)
 - [x] [Slices](https://go-tour-jp.appspot.com/moretypes/18)
-- [ ] [Maps](https://go-tour-jp.appspot.com/moretypes/23)
-- [ ] [Fibonacci closure](https://go-tour-jp.appspot.com/moretypes/26)
+- [x] [Maps](https://go-tour-jp.appspot.com/moretypes/23)
+- [x] [Fibonacci closure](https://go-tour-jp.appspot.com/moretypes/26)
 - [ ] [Stringers](https://go-tour-jp.appspot.com/methods/18)
 - [ ] [Errors](https://go-tour-jp.appspot.com/methods/20)
 - [ ] [Readers](https://go-tour-jp.appspot.com/methods/22)
