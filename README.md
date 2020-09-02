@@ -7,7 +7,7 @@
 - [x] [Maps](https://go-tour-jp.appspot.com/moretypes/23)
 - [x] [Fibonacci closure](https://go-tour-jp.appspot.com/moretypes/26)
 - [x] [Stringers](https://go-tour-jp.appspot.com/methods/18)
-- [ ] [Errors](https://go-tour-jp.appspot.com/methods/20)
+- [x] [Errors](https://go-tour-jp.appspot.com/methods/20)
 - [ ] [Readers](https://go-tour-jp.appspot.com/methods/22)
 - [ ] [rot13Reader](https://go-tour-jp.appspot.com/methods/23)
 - [ ] [Images](https://go-tour-jp.appspot.com/methods/25)
