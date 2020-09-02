@@ -9,7 +9,7 @@
 - [x] [Stringers](https://go-tour-jp.appspot.com/methods/18)
 - [x] [Errors](https://go-tour-jp.appspot.com/methods/20)
 - [x] [Readers](https://go-tour-jp.appspot.com/methods/22)
-- [ ] [rot13Reader](https://go-tour-jp.appspot.com/methods/23)
+- [x] [rot13Reader](https://go-tour-jp.appspot.com/methods/23)
 - [ ] [Images](https://go-tour-jp.appspot.com/methods/25)
 - [ ] [Equivalent Binary Trees](https://go-tour-jp.appspot.com/concurrency/7)
 - [ ] [Equivalent Binary Trees](https://go-tour-jp.appspot.com/concurrency/8)
