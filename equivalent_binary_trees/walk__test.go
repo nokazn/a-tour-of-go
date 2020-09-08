@@ -19,13 +19,16 @@ func TestWalk(t *testing.T) {
 	}
 
 	const K = 10
-	ok := true
-	// 1 ~ n*K までの数字がすべて含まれているか
-	for i := 1; i <= n*K; i++ {
-		ok = nums[i] && ok
-	}
 
-	if !ok {
-		t.Errorf("error!")
-	}
+	t.Run("Numbers from 1 to 10 should be included.", func(t *testing.T) {
+		ok := true
+		// 1 ~ n*K までの数字がすべて含まれているか
+		for i := 1; i <= n*K; i++ {
+			ok = nums[i] && ok
+		}
+
+		if !ok {
+			t.Errorf("error!")
+		}
+	})
 }
