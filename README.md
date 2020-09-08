@@ -11,6 +11,5 @@
 - [x] [Readers](https://go-tour-jp.appspot.com/methods/22)
 - [x] [rot13Reader](https://go-tour-jp.appspot.com/methods/23)
 - [x] [Images](https://go-tour-jp.appspot.com/methods/25)
-- [ ] [Equivalent Binary Trees](https://go-tour-jp.appspot.com/concurrency/7)
-- [ ] [Equivalent Binary Trees](https://go-tour-jp.appspot.com/concurrency/8)
+- [x] [Equivalent Binary Trees](https://go-tour-jp.appspot.com/concurrency/7)
 - [ ] [Web Crawler](https://go-tour-jp.appspot.com/concurrency/10)
